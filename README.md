@@ -1,6 +1,6 @@
 CC BY-NC-SA 2016 Copyright Mark Benson etc etc
 
-![PCB](https://github.com/MarkJB/Eggbot-Spherebot-Polargraph-Controller/blob/master/eggbot-spherebot-polargraph-controller_front.png)
+![PCB](https://github.com/MarkJB/pi-zero-stepper-board/blob/master/pi-zero-stepper-board.png)
 
 This is my Pycupi Polargraph Pi Zero Powered Plotting Project for Penny Pinchers, designed especially for Pi day. 
 
