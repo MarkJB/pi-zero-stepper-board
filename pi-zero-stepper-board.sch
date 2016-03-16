@@ -158,7 +158,7 @@ $Comp
 L Arduino_Pro_Mini_3v3_8MHz U2
 U 1 1 56E571C7
 P 5200 3050
-F 0 "U2" H 5200 2400 60  0000 C CNN
+F 0 "U2" H 5200 2900 60  0000 C CNN
 F 1 "Arduino_Pro_Mini_3v3_8MHz" H 5200 3750 60  0000 C CNN
 F 2 "custom:Arduino_Pro_Mini" H 5200 2500 60  0001 C CNN
 F 3 "" H 5200 2500 60  0000 C CNN
@@ -763,4 +763,20 @@ Text Label 800  6150 0    60   ~ 0
 GPIO21
 Text Label 3200 4450 2    60   ~ 0
 GPIO21
+Wire Wire Line
+	5100 3850 5100 4200
+Wire Wire Line
+	5200 3850 5200 4200
+Text Label 5100 4200 1    60   ~ 0
+SDA
+Text Label 5200 4200 1    60   ~ 0
+SCL
+Wire Wire Line
+	1600 2650 1200 2650
+Wire Wire Line
+	1600 2750 1200 2750
+Text Label 1200 2650 0    60   ~ 0
+SDA
+Text Label 1200 2750 0    60   ~ 0
+SCL
 $EndSCHEMATC

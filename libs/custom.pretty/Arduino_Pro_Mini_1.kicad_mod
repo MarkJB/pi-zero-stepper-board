@@ -1,4 +1,4 @@
-(module Arduino_Pro_Mini (layer F.Cu) (tedit 56E88D43)
+(module Arduino_Pro_Mini_1 (layer F.Cu) (tedit 56E88D43)
   (fp_text reference REF** (at 0 16.51) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
