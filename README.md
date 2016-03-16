@@ -1,10 +1,6 @@
 CC BY-NC-SA 2016 Copyright Mark Benson etc etc
 
-<<<<<<< HEAD
 ![PCB](https://github.com/MarkJB/pi-zero-stepper-board/blob/master/pi-zero-stepper-board_front.png)
-=======
-![PCB](https://github.com/MarkJB/pi-zero-stepper-board/blob/master/pi-zero-stepper-board.png)
->>>>>>> origin/master
 
 This is my Pycupi Polargraph Pi Zero Powered Plotting Project for Penny Pinchers, designed especially for Pi day. 
 
